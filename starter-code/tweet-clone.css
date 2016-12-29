@@ -1,0 +1,93 @@
+body{
+    background: rgb(244, 248, 249);
+    font-family: "helvetica";
+    font-size: 18px;
+    width: 750px;
+    high: 100px;
+}
+
+.tweet{
+    background: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    border-color: rgb(225, 232, 237);
+    padding-top: 25px;
+    padding-right: 30px;
+    padding-bottom: 0px;
+    padding-left: 25px;
+    width: 700px;
+    high: 100px;
+}
+
+#profile-picture{
+    float: left;
+}
+
+#account-logo{
+    font-size: 26px;
+    margin-left: 90px;
+    
+}
+
+.jack{
+    font-weight: bold;
+}
+
+
+#follow{
+    font-size: 28px;
+    font-weight: bold;
+    color: rgb(85, 172, 238);
+    width: 150px;
+    height: 30px;
+    border-color: rgb(85, 172, 238);
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    padding-top: 5px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    float: right;
+}
+
+#user-account{
+    color: rgb(104,109,129);
+    font-size: 26px;
+    margin-left: 85px;
+    float: up;
+}
+
+#message{
+    color rgb: (101,116,127);
+    font-size: 28px;
+}
+
+#datetime{
+    color: rgb(101, 116, 127);
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+p{
+    font-size: 24px;
+    color: rgb(105, 120, 130);
+    font-size:24px;
+    font-weight: normal;
+
+}
+
+
+#retweet{
+
+    margin-left: 20px;
+    
+}
+
+#favorite{
+
+    margin-left: 20px;
+    
+}
+
